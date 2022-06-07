@@ -1,0 +1,25 @@
+.studentDetails[b-u1cdk56nhh]{
+    width: 100%;
+    table-layout:fixed;
+}
+.returnButton[b-u1cdk56nhh]{
+    background: lightblue;
+    color: white;
+    border: 1px solid rgba(255,255,255,0.5);
+    border-radius: 5px;
+    width: 100%;
+}
+
+.returnButton:hover[b-u1cdk56nhh]{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4) 0 0);
+}
+h3[b-u1cdk56nhh] {
+    text-align: center;
+    color: white;
+    margin-bottom: 15px;
+}
+input[b-u1cdk56nhh]{
+    width: 99%;
+    border-radius: 5px;
+    border: 1px solid rgba(255,255,255,0.5);
+}
